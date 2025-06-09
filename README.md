@@ -1,1 +1,2 @@
-https://arpbaez.github.io/aulatech/tecnologia.html/
+https://arpbaez.github.io/aulatech/
+t
